@@ -1,0 +1,12 @@
+database:
+    autobackup: true
+    backupinterval: 24
+    maxbackups: 7
+    sqlite:
+        path: data/sqlite/protoshelf.db
+logging:
+    format: text
+    level: debug
+server:
+    port: 80
+version: 0.0.3
