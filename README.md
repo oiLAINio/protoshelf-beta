@@ -1,4 +1,4 @@
-# ProtoShelf v0.0.3
+# ProtoShelf v0.0.4
 
 ProtoShelf is a comprehensive inventory management system specifically designed for electronic components. Built with a modern React frontend and efficient Go backend, the application compiles into a single executable that serves both the web interface and API, making deployment incredibly simple.
 
